@@ -50,7 +50,7 @@ export default function AuthPage() {
         <label>Email
           <input type="email" required value={email} onChange={(e) => setEmail(e.target.value)} />
         </label>
-        <label>Nuuts ug
+        <label>Nuuts ugee oruul
           <input
             type="password"
             required
